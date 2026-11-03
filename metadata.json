@@ -1,0 +1,8 @@
+{
+  "name": "Remix Dr. Hamid Raza Clinic CRM \u0026 Appointments",
+  "description": "Official patient appointment booking and clinic management CRM portal for Dr. Hamid Raza, Consultant Child Specialist \u0026 Neonatologist (KE, Mayo Hospital Lahore).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
